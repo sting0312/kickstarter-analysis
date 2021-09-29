@@ -9,7 +9,7 @@ May is the best month to ask for funding for a theater project, based on percent
 ![This is an image](https://github.com/sting0312/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 The higher the goal, the less likely the project is to be funded.
-!(https://github.com/sting0312/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![This is the second Image](https://github.com/sting0312/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
 ##Results
