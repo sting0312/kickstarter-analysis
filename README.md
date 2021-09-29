@@ -6,7 +6,7 @@ The purpose of this project is to identify and analyze kickstarter data from The
 
 ##Analysis and Challenges
 May is the best month to ask for funding for a theater project, based on percentage of successful campaigns in this month.
-![This is an image]/Resources/Theater_Outcomes_vs_Launch.png
+![This is an image](https://github.com/sting0312/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 The higher the goal, the less likely the project is to be funded.
 !/Resources/Outcomes_vs_Goals.png
